@@ -1,0 +1,22 @@
+{
+  "name": "crypto_price_listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxws": "^0.47.0",
+    "cors": "^2.8.5",
+    "dknafo-ccxws": "^0.24.7",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "websocket": "^1.0.34"
+  }
+}
